@@ -1,0 +1,166 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/T5h9fvw9MyvIX3loTGDsU/_buildManifest.js",
+    "static/T5h9fvw9MyvIX3loTGDsU/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/75fc9c18-191f4e46a5fca1eb.js",
+      "static/chunks/pages/index-d5bd49654970c76b.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/css/0004686b010f503f.css",
+      "static/chunks/pages/_app-5b23ef8ac85c0c67.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/pages/_error-2368f2bbbb3169cf.js"
+    ],
+    "/aboutus": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/676-c1ab4114cf8f2f84.js",
+      "static/chunks/678-cef45babe9c3a3f8.js",
+      "static/chunks/711-8d3ab3fa30113387.js",
+      "static/css/d09970df57419a48.css",
+      "static/chunks/pages/aboutus-914c16664490a216.js"
+    ],
+    "/addressBook": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/75fc9c18-191f4e46a5fca1eb.js",
+      "static/chunks/pages/addressBook-9d46a382a8fd1491.js"
+    ],
+    "/adminHome": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/css/d09970df57419a48.css",
+      "static/chunks/pages/adminHome-99ec98512da0a5ff.js"
+    ],
+    "/assessment": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/678-cef45babe9c3a3f8.js",
+      "static/chunks/711-8d3ab3fa30113387.js",
+      "static/chunks/pages/assessment-f1a68f0217be5651.js"
+    ],
+    "/doctorHome": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/676-c1ab4114cf8f2f84.js",
+      "static/css/d09970df57419a48.css",
+      "static/chunks/pages/doctorHome-5433d48ff2483375.js"
+    ],
+    "/eachDoctorDetails": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/css/d09970df57419a48.css",
+      "static/chunks/pages/eachDoctorDetails-88d9a6a6d06aea10.js"
+    ],
+    "/eachPatient": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/pages/eachPatient-bb8300b194b41414.js"
+    ],
+    "/healthRecords": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/75fc9c18-191f4e46a5fca1eb.js",
+      "static/chunks/pages/healthRecords-3ba82ccdc2a4f683.js"
+    ],
+    "/homeLoggedOut": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/pages/homeLoggedOut-fa1150277c770a6e.js"
+    ],
+    "/managedProfile": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/75fc9c18-191f4e46a5fca1eb.js",
+      "static/chunks/pages/managedProfile-17292cd7dfc518d3.js"
+    ],
+    "/membership": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/75fc9c18-191f4e46a5fca1eb.js",
+      "static/chunks/pages/membership-7e35c4103c9ec0c7.js"
+    ],
+    "/needHelp": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/75fc9c18-191f4e46a5fca1eb.js",
+      "static/chunks/pages/needHelp-75566654aef95e63.js"
+    ],
+    "/notification": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/75fc9c18-191f4e46a5fca1eb.js",
+      "static/chunks/pages/notification-dd47632047d9ca01.js"
+    ],
+    "/nutrition": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/pages/nutrition-491c1fd31b426e88.js"
+    ],
+    "/payments": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/75fc9c18-191f4e46a5fca1eb.js",
+      "static/chunks/pages/payments-ceeb67591c8c400c.js"
+    ],
+    "/plans": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/pages/plans-e98b006fb6810218.js"
+    ],
+    "/recipe": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/pages/recipe-3ef6432b66ff52f5.js"
+    ],
+    "/singleNutritionDb": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/pages/singleNutritionDb-ee2d827a14937ed8.js"
+    ],
+    "/singleRecipe": [
+      "static/chunks/webpack-bd54b7c25f992324.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-f6f0a96741df63e0.js",
+      "static/chunks/pages/singleRecipe-178096e26a3baee9.js"
+    ]
+  },
+  "ampFirstPages": []
+}
